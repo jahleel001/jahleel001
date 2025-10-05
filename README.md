@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jahleel McCallum
 
 🎓 **Information Technology Major @ James Madison University** (Class of 2028)  
-🔐 Cybersecurity Enthusiast | IT Problem-Solver | Aspiring Intern  
+🔐 Cybersecurity Enthusiast | IT Problem-Solver | Aspiring SOC Analyst
 📍 Hampton, VA  
 
 ---
