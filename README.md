@@ -24,7 +24,8 @@ uui;# 👋 Hi, I’m Jahleel McCallum
 ---
 
 ## 📂 Technical Projects
-
+**Face Blur projects
+https://github.com/jahleel001/Privacy-Blur
 - **Image Eye Mask Project**
 
 - **Reactive Video Eye Mask Project**
