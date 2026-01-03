@@ -24,6 +24,7 @@ uui;# 👋 Hi, I’m Jahleel McCallum
 ---
 
 ## 📂 Technical Projects
+
 - **Image Eye Mask Project**
 
 - **Reactive Video Eye Mask Project**
