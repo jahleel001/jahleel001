@@ -33,14 +33,8 @@ Image and video anonymization tools using OpenCV, including eye-level black bar 
 
 ---
 
-## 📈 GitHub Stats
-![Jahleel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
-
----
-
 ## 📫 Let’s Connect
-- 💼 [LinkedIn – Jahleel McCallum](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
+- 💼 [LinkedIn – Jahleel McCallum](https://www.linkedin.com/in/jahleel-mccallum/))  
 - 📧 Email: **jahleel001@gmail.com**  
 - 📱 Phone: **(757)-912-7767**  
 
