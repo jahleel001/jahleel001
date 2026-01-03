@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jahleel McCallum
+uui;# 👋 Hi, I’m Jahleel McCallum
 
 🎓 **Information Technology Major @ James Madison University** (Class of 2028)  
 🔐 Cybersecurity Enthusiast | IT Problem-Solver | Aspiring SOC Analyst
@@ -24,10 +24,9 @@
 ---
 
 ## 📂 Technical Projects
-🔐 **Network Security & Optimization**  
-- Analyzed packet captures with **Wireshark & Linux CLI** to detect threats.  
-- Configured **pfSense DMZ & firewall rules** to strengthen network infrastructure.  
-- Implemented **ACLs, VPNs, and port security** to restrict unauthorized access.  
+- **Image Eye Mask Project**
+
+- **Reactive Video Eye Mask Project**
 
 ---
 
