@@ -30,6 +30,10 @@ Image and video anonymization tools using OpenCV, including eye-level black bar 
 
 👉 [View Repository][(https://github.com/jahleel001/Privacy-Blur)]
 
+### Raspberry Pi Adguard Project
+A simple and effective AdGuard DNS sinkhole setup on a Raspberry Pi to block ads, trackers, and malicious domains across my home network, improving security and privacy.
+👉 [View Repository] [(https://github.com/jahleel001/Adblocker)]
+
 
 ---
 
